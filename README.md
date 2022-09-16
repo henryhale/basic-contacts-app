@@ -32,19 +32,19 @@ Prompts the user to enter details of one contact, one by one.
 
 > Don't include spaces as it would cause a few errors
 
-<p align="center"><img alt="Menu" src="./img/02-new-contact-form.png"></p>
+<p align="center"><img alt="New Contact Form" src="./img/02-new-contact-form.png"></p>
 
 - **All Contacts**
 
 Display details of each contact in the contacts list
 
-<p align="center"><img alt="Menu" src="./img/03-all-contacts.png"></p>
+<p align="center"><img alt="All Contacts" src="./img/03-all-contacts.png"></p>
 
 - **Exit**
 
 Exits can be either voluntary or involuntary. In case of a voluntary exit, it's either successful execution start to end or a minor error occured. In case of an involuntary eixt, it's either the complier crashed or a fatal error occured.
 
-<p align="center"><img alt="Menu" src="./img/04-exit.png"></p>
+<p align="center"><img alt="Exit" src="./img/04-exit.png"></p>
 
 ## Thoughts
 
