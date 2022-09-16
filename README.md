@@ -1,4 +1,9 @@
-# Contacts App
+<div align="center">
+<img width="200" alt="Contacts App" src="https://user-images.githubusercontent.com/92443116/190621430-c13e7ddf-8a22-4bea-bb6c-cd86a0c1e4a8.png">
+<h1>Basic Contacts App</h1>
+</div>
+
+# 
 
 A basic application to manage contacts in C programming language. 
 
